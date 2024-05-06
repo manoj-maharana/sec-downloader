@@ -1,0 +1,7 @@
+sec_edgar_downloader
+wkhtmltopdf
+pdfkit
+tqdm
+fire
+
+
